@@ -7,7 +7,7 @@ using Umbraco.Engage.Infrastructure.Analytics.Processed;
 using Umbraco.Engage.Infrastructure.Analytics.Processing.Extractors;
 using Umbraco.Extensions;
 
-namespace Our.Umbraco.Engage.LocationHeaders
+namespace Umbraco.Community.Engage.LocationHeaders
 {
     public class HttpHeaderLocationExtractor : IRawPageviewLocationExtractor
     {

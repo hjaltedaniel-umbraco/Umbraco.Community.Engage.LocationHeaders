@@ -4,7 +4,7 @@ using Umbraco.Cms.Core.Composing;
 using Umbraco.Cms.Core.DependencyInjection;
 using Umbraco.Extensions;
 
-namespace Our.Umbraco.Engage.LocationHeaders
+namespace Umbraco.Community.Engage.LocationHeaders
 {
     [ComposeAfter(typeof(UmbracoEngageApplicationComposer))]
     public class EngageLocationComposer : IComposer

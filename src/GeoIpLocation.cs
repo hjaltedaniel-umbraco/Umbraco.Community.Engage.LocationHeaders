@@ -1,6 +1,6 @@
 ﻿using Umbraco.Engage.Infrastructure.Analytics.Processed;
 
-namespace Our.Umbraco.Engage.LocationHeaders
+namespace Umbraco.Community.Engage.LocationHeaders
 {
     public class GeoIpLocation : ILocation
     {
