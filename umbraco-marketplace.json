@@ -2,13 +2,16 @@
     "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
     "AuthorDetails": {
       "Name": "Hjalte Daniel Retz Johansson",
-      "ImageUrl": "https://github.com/hjaltedaniel-umbraco.png"
+      "Description": "Hjalte works at Umbraco HQ. This package is provided in a personal capacity.",
+      "Url": "https://hjaltedaniel.io",
+      "ImageUrl": "https://hjaltedaniel.io/img/profile.4fd21683.jpg"
     },
-    "Category": "",
-    "Description": "",
+    "Category": "Campaign & Marketing",
+    "AlternateCategory": "Analytics & Insights",
+    "Description": "Adds support for setting location data in Umbraco Engage using headers from Cloudflare, Azure Front Door, or other CDNs. Plug-and-play on Umbraco Cloud – configurable for custom headers.",
     "LicenseTypes": [ "Free" ],
     "IssueTrackerUrl": "https://github.com/hjaltedaniel-umbraco/Umbraco.Community.Engage.LocationHeaders/issues",
     "PackageType": "Package",
     "Tags": [],
-    "Title": "Engage .Location Headers "
+    "Title": "Umbraco.Community.Engage.LocationHeaders"
   }
