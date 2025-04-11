@@ -1,0 +1,14 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
+    "AuthorDetails": {
+      "Name": "Hjalte Daniel Retz Johansson",
+      "ImageUrl": "https://github.com/hjaltedaniel-umbraco.png"
+    },
+    "Category": "",
+    "Description": "",
+    "LicenseTypes": [ "Free" ],
+    "IssueTrackerUrl": "https://github.com/hjaltedaniel-umbraco/Umbraco.Community.Engage.LocationHeaders/issues",
+    "PackageType": "Package",
+    "Tags": [],
+    "Title": "Engage .Location Headers "
+  }

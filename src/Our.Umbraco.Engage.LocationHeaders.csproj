@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ContentTargetFolders>.</ContentTargetFolders>
+    <Product>Umbraco.Community.Engage.LocationHeaders</Product>
+    <PackageId>Umbraco.Community.Engage.LocationHeaders</PackageId>
+    <Title>Engage.LocationHeaders</Title>
+    <Description>...</Description>
+    <PackageTags>umbraco;umbraco-marketplace</PackageTags>
+    <RootNamespace>Umbraco.Community.Engage.LocationHeaders</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>0.1.0</Version>
+    <Authors>Hjalte Daniel Retz Johansson</Authors>
+    <Copyright>$([System.DateTime]::UtcNow.ToString(`yyyy`)) © Hjalte Daniel Retz Johansson</Copyright>
+    <PackageProjectUrl>https://github.com/hjaltedaniel-umbraco/Umbraco.Community.Engage.LocationHeaders</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/hjaltedaniel-umbraco/Umbraco.Community.Engage.LocationHeaders</RepositoryUrl>
+    <PackageReadmeFile>README_nuget.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Umbraco.Cms.Core" Version="13.8.0" />
+    <PackageReference Include="Umbraco.Engage.Core" Version="13.4.0" />
+  </ItemGroup>
+
+</Project>
