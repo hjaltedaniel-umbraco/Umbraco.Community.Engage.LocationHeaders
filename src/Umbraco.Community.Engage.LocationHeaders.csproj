@@ -7,8 +7,8 @@
     <ContentTargetFolders>.</ContentTargetFolders>
     <Product>Umbraco.Community.Engage.LocationHeaders</Product>
     <PackageId>Umbraco.Community.Engage.LocationHeaders</PackageId>
-    <Title>Engage.LocationHeaders</Title>
-    <Description>...</Description>
+    <Title>Engage - Location Headers</Title>
+    <Description>This package allows you to configure the location headers from your CDN, Azure Frontdoor, or simmilar to be the source of location data for Umbraco Engage</Description>
     <PackageTags>umbraco;umbraco-marketplace</PackageTags>
     <RootNamespace>Umbraco.Community.Engage.LocationHeaders</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
@@ -17,7 +17,6 @@
     <Copyright>$([System.DateTime]::UtcNow.ToString(`yyyy`)) © Hjalte Daniel Retz Johansson</Copyright>
     <PackageProjectUrl>https://github.com/hjaltedaniel-umbraco/Umbraco.Community.Engage.LocationHeaders</PackageProjectUrl>
     <RepositoryUrl>https://github.com/hjaltedaniel-umbraco/Umbraco.Community.Engage.LocationHeaders</RepositoryUrl>
-    <PackageReadmeFile>README_nuget.md</PackageReadmeFile>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
